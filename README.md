@@ -19,3 +19,8 @@ BOOK WEBSITE BOOK SCRAPP
 
 ZOMATO EDA
 "C:\Users\ap738\Downloads\zomato_eda.ipynb"
+
+
+CLASSIFICATION PROJECT 
+"C:\Users\ap738\Downloads\Classification_Project.ipynb"
+
